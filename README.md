@@ -1,3 +1,1 @@
-[1.bmp](https://github.com/user-attachments/files/22664682/1.bmp)
-[2.bmp](https://github.com/user-attachments/files/22664694/2.bmp)
-[3.bmp](https://github.com/user-attachments/files/22664696/3.bmp)
+<img width="1729" height="905" alt="1" src="https://github.com/user-attachments/assets/98495161-a652-42b9-bc05-06062c266d3e" />
